@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/yelp-reactjs/node_modules
+/yelp-express-node/node_modules
+
+# testing
+/yelp-reactjs/coverage
+
+# production
+/yelp-reactjs/build
